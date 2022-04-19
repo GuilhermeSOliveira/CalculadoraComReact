@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    max-width: 720px;
+    justify-items: center;
+}
+
+.background {
+    background-color: black;
+}
+
+button {
+    background-color: #919191;
+    width: 3em;
+    height: 3em;
+    border: none;
+    border-radius: 2em;
+    margin: 1em;
+    font-size: 2em;
+}
