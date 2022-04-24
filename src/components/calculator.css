@@ -10,6 +10,7 @@
 
 .background {
     background-color: #000D0C;
+    border-radius: 20px;
 }
 
 .resultado {
@@ -30,4 +31,9 @@ button {
     border-radius: 1em;
     margin: 1em;
     font-size: 2em;
+}
+
+button:hover {
+    background-color: #00F4C6;
+    cursor: pointer;
 }
